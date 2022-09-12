@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@color/light_background"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <soup.neumorphism.NeumorphTextView
+            android:id="@+id/titleDialog"
+            style="@style/Widget.Neumorph.TextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Title"
+            android:textColor="@color/textColor"
+            android:textSize="20sp"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+
+            />
+        <soup.neumorphism.NeumorphTextView
+            style="@style/Widget.Neumorph.TextView"
+            android:layout_margin="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/teal_200"
+
+            />
+        <soup.neumorphism.NeumorphCardView
+            style="@style/Widget.Neumorph.CardView"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            app:neumorph_shapeType="pressed"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+
+            >
+
+            <EditText
+                android:id="@+id/edt01"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:inputType="textAutoComplete"
+                android:hint="edt01"
+                android:paddingStart="12dp"
+                android:textColorHint="@color/teal_200"
+                android:paddingEnd="12dp"
+                android:textCursorDrawable="@drawable/cursor"
+                android:textColor="@color/textColor"
+                android:background="@drawable/no_background"
+                />
+        </soup.neumorphism.NeumorphCardView>
+        <soup.neumorphism.NeumorphCardView
+            style="@style/Widget.Neumorph.CardView"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            app:neumorph_shapeType="pressed"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp">
+
+            <EditText
+                android:id="@+id/edt02"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:inputType="textAutoComplete"
+                android:hint="edt02"
+                android:paddingStart="12dp"
+                android:textColorHint="@color/teal_200"
+                android:paddingEnd="12dp"
+                android:textCursorDrawable="@drawable/cursor"
+                android:textColor="@color/textColor"
+                android:background="@drawable/no_background"
+                />
+        </soup.neumorphism.NeumorphCardView>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <soup.neumorphism.NeumorphButton
+                style="@style/Widget.Neumorph.Button"
+                android:id="@+id/cancel_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="cancel"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="15dp"
+                android:textColor="#A33737"
+                android:textStyle="bold"
+                android:textSize="14dp"
+                />
+            <soup.neumorphism.NeumorphButton
+                style="@style/Widget.Neumorph.Button"
+                android:id="@+id/add_btn"
+                android:layout_alignParentRight="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="14dp"
+                android:layout_marginRight="15dp"
+                android:textColor="#27872A"
+                android:text="Add"
+                android:textStyle="bold"
+                />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

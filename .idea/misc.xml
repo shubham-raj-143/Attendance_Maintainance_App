@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/F-drive/AndroidStudioProjects2/Attendance_Maintainance_App/app/src/main/res/drawable/cursor.xml" value="0.10277777777777777" />
+        <entry key="..\:/F-drive/AndroidStudioProjects2/Attendance_Maintainance_App/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.290625" />
+        <entry key="..\:/F-drive/AndroidStudioProjects2/Attendance_Maintainance_App/app/src/main/res/drawable/ic_baseline_add_red.xml" value="0.290625" />
+        <entry key="..\:/F-drive/AndroidStudioProjects2/Attendance_Maintainance_App/app/src/main/res/drawable/no_background.xml" value="0.10277777777777777" />
+        <entry key="..\:/F-drive/AndroidStudioProjects2/Attendance_Maintainance_App/app/src/main/res/drawable/textview_border.xml" value="0.1287037037037037" />
+        <entry key="..\:/F-drive/AndroidStudioProjects2/Attendance_Maintainance_App/app/src/main/res/layout/activity_import_excel.xml" value="0.1" />
+        <entry key="..\:/F-drive/AndroidStudioProjects2/Attendance_Maintainance_App/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/F-drive/AndroidStudioProjects2/Attendance_Maintainance_App/app/src/main/res/layout/activity_sheet.xml" value="0.27447916666666666" />
+        <entry key="..\:/F-drive/AndroidStudioProjects2/Attendance_Maintainance_App/app/src/main/res/layout/activity_sheet_list.xml" value="0.27447916666666666" />
+        <entry key="..\:/F-drive/AndroidStudioProjects2/Attendance_Maintainance_App/app/src/main/res/layout/activity_student.xml" value="0.27447916666666666" />
+        <entry key="..\:/F-drive/AndroidStudioProjects2/Attendance_Maintainance_App/app/src/main/res/layout/class_dialog.xml" value="0.27447916666666666" />
+        <entry key="..\:/F-drive/AndroidStudioProjects2/Attendance_Maintainance_App/app/src/main/res/layout/class_item.xml" value="0.27447916666666666" />
+        <entry key="..\:/F-drive/AndroidStudioProjects2/Attendance_Maintainance_App/app/src/main/res/layout/class_tem.xml" value="0.27447916666666666" />
+        <entry key="..\:/F-drive/AndroidStudioProjects2/Attendance_Maintainance_App/app/src/main/res/layout/dialog.xml" value="0.27447916666666666" />
+        <entry key="..\:/F-drive/AndroidStudioProjects2/Attendance_Maintainance_App/app/src/main/res/layout/sheet_list.xml" value="0.27447916666666666" />
+        <entry key="..\:/F-drive/AndroidStudioProjects2/Attendance_Maintainance_App/app/src/main/res/layout/student_item.xml" value="0.27447916666666666" />
+        <entry key="..\:/F-drive/AndroidStudioProjects2/Attendance_Maintainance_App/app/src/main/res/layout/template1_item.xml" value="0.1" />
+        <entry key="..\:/F-drive/AndroidStudioProjects2/Attendance_Maintainance_App/app/src/main/res/layout/toolbar.xml" value="0.27447916666666666" />
+        <entry key="..\:/F-drive/AndroidStudioProjects2/Attendance_Maintainance_App/app/src/main/res/menu/student_manu.xml" value="0.27447916666666666" />
+        <entry key="..\:/F-drive/AndroidStudioProjects2/Attendance_Maintainance_App/app/src/main/res/menu/student_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/F-drive/AndroidStudioProjects2/Attendance_Maintainance_App/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.15885416666666666" />
+        <entry key="..\:/F-drive/AndroidStudioProjects2/Attendance_Maintainance_App/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.15885416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

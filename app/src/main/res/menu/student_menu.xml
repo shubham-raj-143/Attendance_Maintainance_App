@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/add_student"
+        android:title="ADD STUDENT" />
+
+    <item
+        android:id="@+id/show_calender"
+        android:title="CHANGE DATE" />
+    <item
+        android:id="@+id/show_attendance_sheet"
+        android:title="ATTENDANCE SHEET" />
+    <item
+        android:id="@+id/import_excel"
+        android:title="IMPORT FROM EXCEL" />
+</menu>
